@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1785129314|101435763';
+const CACHE_VERSION = '1791784396|9131484';
 /** @type {string} */
 const CACHE_PREFIX = 'Metalmuters-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
